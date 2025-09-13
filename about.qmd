@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+Hello, this is Héctor Palafox's personal site.
